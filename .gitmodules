@@ -1,0 +1,3 @@
+[submodule "pymail"]
+	path = pymailcli
+	url = https://github.com/ghoulboii/pymail-cli
