@@ -1,6 +1,6 @@
 beautifulsoup4==4.12.3
 cachetools==5.3.3
-certifi==2024.2.2
+certifi>=2024.07.04
 charset-normalizer==3.3.2
 google-api-core==2.19.0
 google-api-python-client==2.131.0
@@ -21,4 +21,4 @@ requests-oauthlib==2.0.0
 rsa==4.9
 soupsieve==2.5
 uritemplate==4.1.1
-urllib3==2.2.1
+urllib3>=2.2.2
